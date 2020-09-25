@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Do or do not... There is no Try!
 Use the left arrow to go back!
